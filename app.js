@@ -24,7 +24,6 @@ hvrtxt.addEventListener('mouseover', hoverText);
 //hover me end here
 
 
-
 //hover out start here
 function hoverOutText() {
     hvrtxt.innerHTML = 'Hover over me!';
